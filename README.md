@@ -1,4 +1,4 @@
-# mentalapp
+# Mental Health App UI
 
 A new Flutter project.
 
